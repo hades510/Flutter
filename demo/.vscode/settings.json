@@ -1,0 +1,5 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "editor.fontFamily": "Consolas,'Courier New',monospace",
+    "editor.fontVariations": false
+}
